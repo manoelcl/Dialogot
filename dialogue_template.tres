@@ -1,0 +1,33 @@
+[gd_resource type="JSON" format=3 uid="uid://d3prh20nvruci"]
+
+[resource]
+data = {
+"Dialogues": {
+"1": {
+"character": "jolynekujoh",
+"event": "none",
+"mood": "standard",
+"options": [{
+"id": 1.0,
+"text": "Hola, solo pasaba por aquí."
+}, {
+"id": 2.0,
+"text": "Hola, necesitaba comprar algo."
+}],
+"text": ["Hola, bienvenido.", "¿Qué quieres?"]
+},
+"2": {
+"character": "jolynekujoh",
+"event": "none",
+"mood": "sad",
+"options": [{
+"id": 1.0,
+"text": "Hola, solo pasaba por aquí."
+}, {
+"id": 2.0,
+"text": "Hola, necesitaba comprar algo."
+}],
+"text": ["See you next time."]
+}
+}
+}

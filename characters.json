@@ -1,0 +1,14 @@
+{
+	"jolinekujoh": {
+		"name":"Joline",
+		"lastName": "Kujoh",
+		"birth":1989,
+		"description":"A normal bot from a normal family",
+	},
+	"johnathanjoestar": {
+		"name":"Johnatan",
+		"lastName": "Joestar",
+		"birth":1889,
+		"description":"A normal bot from a normal family",
+	}
+}
